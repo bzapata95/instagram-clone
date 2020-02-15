@@ -6,7 +6,7 @@
 Photogram (Intagram clone)
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">instagram clone with the necessary functionalities of this great the internet</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
